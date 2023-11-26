@@ -1,0 +1,20 @@
+Afrika,Észak-Amerika,Dél-Amerika,Ázsia
+Leonardo da Vinci,Michelangelo,Vincent van Gogh,Pablo Picasso
+1918,1914,1939,1945
+Jupiter,Mars,Uránusz,Neptunusz
+Jane Austen,William Shakespeare,Charles Dickens,Fjodor Dostojevszkij
+Mount Everest,Kilimandzsáró,Matterhorn,Mont Blanc
+1789,1803,1775,1812
+Rosa Parks,Marie Curie,Eleanor Roosevelt,Mother Teresa
+7,5,6,8
+1975,1981,1969,1990
+1919,1955,1932,1945
+Leo Tolstoj,James Joyce,Miguel de Cervantes,F. Scott Fitzgerald
+18. század vége,18. század eleje,19. század eleje,17. század vége
+106,306,206,156
+Rizs,Burgonya,Kukorica,Árpa
+George Washington,Abraham Lincoln,Thomas Jefferson,John F. Kennedy
+1939,1941,1950,1945
+Róma,Madrid,Berlin,Párizs
+Mars,Föld,Jupiter,Szaturnusz
+Neil Armstrong,Buzz Aldrin,Juri Gagarin,Valentina Tyereskova
